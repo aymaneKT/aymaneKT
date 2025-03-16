@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aymane Kabti
 - 👀 I’m interested in front end development 
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently learning ExpressJS
   <!-- - 💞️ I’m looking to collaborate on ...-->
 - 📫 How to reach me IG: @aymane_qabti , e-mail:aymanekabtitech@gmail.com
 - 😄 Pronouns: eymen
