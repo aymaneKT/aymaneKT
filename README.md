@@ -6,7 +6,7 @@
    e-mail:aymanekabtitech@gmail.com
 - 😄 Pronouns: eymen
 - ⚡ Fun fact: css is awesome
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aymaneKT)](https://github.com/aymaneKT/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/aymaneKT/github-readme-stats)
 <!---
 aymaneKT/aymaneKT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
