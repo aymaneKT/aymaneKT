@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on volutionWear<br><br>👨‍💻 All of my projects are available at https://aymanekabti.netlify.app/<br><br>📫 How to reach me aymanekabtitech@gmail.com<br>
+🔭  All of my projects are available at https://aymanekabti.netlify.app/<br><br>📫 How to reach me aymanekabtitech@gmail.com<br>
 
 
 ## 🌐 Socials:
